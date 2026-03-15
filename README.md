@@ -1,0 +1,2 @@
+# PvZgobang
+一个基于DevEco的HarmonyOS程序，使用arkTs架构的五子棋游戏，同时加入了植物大战僵尸的元素和技能，增加了更多的可玩性
